@@ -31,6 +31,9 @@
 ```bash
 $ npm install
 ```
+```bash
+$ node verson v19.1.0
+``
 
 ## Running the app
 
